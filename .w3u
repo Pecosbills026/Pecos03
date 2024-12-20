@@ -229,7 +229,13 @@
 {"name":"AZTECA 7","image":"http://lonewolftvpr.com/logos/azteca7.png",
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/6"},
 
-{"name":"ESTRELLA TV","image":"http://streamsy.online:2999/PRPLUS/vevnife7/458",
+{"name":"CANAL DE LAS ESTRELLAS","image":"http://lonewolftvpr.com/logos/canaldelasestrellas.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/3"},
+
+{"name":"CANAL 5","image":"https://i.ibb.co/smd2pzG/5.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/1457"},
+
+{"name":"ESTRELLA TV","image":"http://lonewolftvpr.com/logos/estrellatv.png",
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/418"},
 
 {"name":"WARNER OPC2","image":"http://descargas.podzone.net/logos/-warner.png",
