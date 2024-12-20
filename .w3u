@@ -174,104 +174,53 @@
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/1692"}]},
 
 {"name": "ZONA DEPORTIVA",
-"image":"hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSb4ImYAFgqUSfcwj6RZUv1Luhi_arr-d8DECn2CmFnD_V-NDXgqfWK7DC&s=10",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSb4ImYAFgqUSfcwj6RZUv1Luhi_arr-d8DECn2CmFnD_V-NDXgqfWK7DC&s=10",
 "stations": [
 
-{"name":"ANIMAL PLANET", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXZIMkXsuzfDaSnKC6CgHJdbtcHeQTh1qjS1sM4QIrQ&s", 
-"url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/61.ts"},
+{"name":"AZTECA DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-q76RnjB6u3hq7YLGWwInuyNLWZQU1bBlspIgX_0ABOX--FV-pe7n7c&s=10",
+"url":"http://xcm.budtv-ultra.com:25461/bud-2597559/7f84c9456d/278577"}
 
-{"name":"ANIMAL PLANET OPC2", "image":"http://descargas.podzone.net/logos/-animal-planet.png", 
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4067"},
+{"name":"BEINSPORT Ñ","image":"http://lonewolftvpr.com/logos/beinsports.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/381"},
 
-{"name":"COMEDIA CENTRAL", "image":"http://descargas.podzone.net/logos/-comedy-central.png", 
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4039"},
+{"name":"CLARO SPORT","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSblQeN-W2P9ulq_XH-UjlKcwNFI7frJRQ_IH-xh4v6scIr5mXNHlAqobPs&s=10",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/1700"},
 
-{"name":"DISCOVERY CHANNEL ESPAÑOL", "image":"http://descargas.podzone.net/logos/-discovery-en-espanol.png", 
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/56304"},
+{"name":"ESPN 1","image":"https://i.imgur.com/Cnlilpc.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/97"},
 
-{"name":"DISCOVERY CHANNEL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCMhRQlAbGsZdiZU2N5V-MIdx8eorGCU3bg&usqp=CAU", 
-"url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/60.ts"},
+{"name":"ESPN 2","image":"https://i.imgur.com/Byz0yMS.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/1456"},
 
-{"name":"DISCOVERY CHANNEL OPC2","image":"http://descargas.podzone.net/logos/-discovery-channel.png",
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4069"},
+{"name":"ESPN 3","image":"https://i.imgur.com/4sKgcKa.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/91"},
 
-{"name":"DISCOVERY TURBO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UYF3YelMPGVrh056vcNhUpZln0pELkUydJh88iKUeg&s",
-"url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/54283.m3u8"},
+{"name":"ESPN 4 LAT","image":"https://i.imgur.com/JUou0fZ.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/90"},
 
-{"name":"DISCOVERY TURBO OPC2","image":"http://descargas.podzone.net/logos/-discovery-turbo.png",
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4075"},
+{"name":"ESPN DEPORTES","image":"http://lonewolftvpr.com/logos/espndeportes.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/528"},
 
-{"name":"DISCOVERY TURBO OPC3","image":"https://static.epg.best/au/DiscoveryTurbo.au.png",
-"url":"http://iptvhogar.club:25461/Gladys_Farina/0342501807/133"},
+{"name":"FOX SPORT 1","image":"https://i.postimg.cc/W1hpgyH4/fox1.png",
+"url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZoo-9FwRzy_otQnjoUe9jxN8mxND1HG76Kj3hsJv1LjId/ts"},
 
-{"name":"DISTRITO COMEDIA","image":"http://descargas.podzone.net/logos/-distrito-comedia.png", 
-"url":"http://alfa.7057460.xyz:2095/electrocel300823/300823electrocel/7043"},
+{"name":"FOX SPORT 2","image":"https://i.postimg.cc/d01285jt/fox2.png",
+"url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZoo-9FwRzy_otQnjoUe9jxN896xnd0vrREO0HCjWNWZuq/ts"},
 
-{"name":"E!", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt6zVw9UwwMu7QL5CW0QpLULiy2BGcd1XbA&usqp=CAU", 
-"url":"http://alfa.7057460.xyz:2095/electrocel300823/300823electrocel/7250"},
+{"name":"FOX SPORT 2 OPC2","image":"http://descargas.podzone.net/logos/-Fox-sports-2.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1156756"},
 
-{"name":"E! OPC2", "image":"http://descargas.podzone.net/logos/-E!-entertainment.png", 
-"url":"http://ultrapremium.cloud:8080/964911974tv/s2hv65/628"},
+{"name":"FOX SPORT 3","image":"https://i.postimg.cc/bv5qJvvN/fox3.png",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4008"},
 
-{"name":"E! OPC3", "image":"https://i.postimg.cc/Gt9547s2/E-Entertainment.png", 
-"url":"http://cineplay.vip:2086/RaulBH/hJDvNupWnq/38870"},
+{"name":"FOX DEPORTES","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/FOXDEPORTESUSA.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1202578"},
 
-{"name":"HISTORY","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9PqAOsM6V8WAQiJKwlTzEBJp6KD0nB-BNA&usqp=CAU", 
-"url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53074.m3u8"},
+{"name":"FOX PREMIUM","image":"http://live.iptvlatino.cc/stream_icons_mx/fox_sports_premium_mx.png",
+"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1055"},
 
-{"name":"HISTORY OPC2","image":"http://descargas.podzone.net/logos/-history.png", 
-"url":"http://alfa.7057460.xyz:2095/electrocel300823/300823electrocel/7225"},
-
-{"name":"HISTORY OPC3","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", 
-"url":"http://iptvhogar.club:25461/Gladys_Farina/0342501807/68"},
-
-{"name":"HISTORY 2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1F7NW-q1E1JtxtFr2xpbgTmQ_lrHI-IFPg&usqp=CAU", 
-"url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/105685.m3u8"},
-
-{"name":"HISTORY 2 OPC2","image":"http://descargas.podzone.net/logos/-H2-(history2).png", 
-"url":"http://new-tv.cloud:25461/delgado2022/Dajael1991/563771"},
-
-{"name":"HISTORY 2 OPC3","image":"http://iptvhogar.club:25461/images/4ba20bad725f7a767787f498a0680dd2.png", 
-"url":"http://iptvhogar.club:25461/Gladys_Farina/0342501807/66"},
-
-{"name":"H&H", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9N_dtgZ13VCCmVcLQTh7--n5sg7ezfD8U2g&usqp=CAU", 
-"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/411"},
-
-{"name":"H&H OPC2","image":"http://descargas.podzone.net/logos/-discovery-home-&-health.png", 
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4070"},
-
-{"name":"H&H OPC3","image":"https://i.ibb.co/bdL2MpV/hyh.png", 
-"url":"http://tvlatino.club:2082/felipeaguero2024/hAvCCUvhvuFM/460147"},
-
-{"name":"HGTV","image":"http://live.iptvlatino.cc/stream_icons_mx/hgtv.png", 
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1176"},
-
-{"name":"HGTV OPC2","image":"http://descargas.podzone.net/logos/-HGTV.png", 
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155823"},
-
-{"name":"HGTV OPC3","image":"https://i.ibb.co/K0gm3yd/640px-HGTV-US-Logo-2015-svg.png", 
-"url":"http://tvpremiund.ddns.me:2082/sintv542/gbu207367/30822"},
-
-{"name":"ID","image":"https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", 
-"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/438"},
-
-{"name":"ID OPC2","image":"http://descargas.podzone.net/logos/-discovery-ID.png", 
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1156012"},
-
-{"name":"ID OPC3","image":"https://i.ibb.co/D75pqxQ/id.png", 
-"url":"http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/439789"},
-
-{"name":"TLC","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEirV6VkRwVLZlwgze-uHWE0H52jCAtv9oDA&s", 
-"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/447"},
-
-{"name":"TLC OPC2","image":"http://descargas.podzone.net/logos/-discovery-TLC.png", 
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155820"},
-
-{"name":"TLC OPC3","image":"https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/tlc-hd.png", 
-"url":"http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/242009"},
-
-{"name":"NATGEO","image":"http://ceoapps.org/logos/natgeo.png", 
-"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/440"},
+{"name":"TUDN USA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItR5lqJvOx7cabASwxWCjnonRlctR18GkZRt-iL292yvFKHoaByLDUl0&s=10 ",
+"url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZoprB0XQFmnfpVlWsfJeiqjs2gxZyAKzCLIQh2KEELyDh/ts"},
 
 {"name":"NATGEO OPC2","image":"http://descargas.podzone.net/logos/-NATGEO.png",
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/440"}]},
