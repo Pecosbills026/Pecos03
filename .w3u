@@ -3,12 +3,12 @@
 "author": "P.A.C.O.",
 "groups": [
 
-{"name": "TV ABIERTA",
-"image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
+{"name": "CINE & SERIES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6mL19fDGZRjaBWXXWpIeDyPNXfFGqqr39Cy5CikXFvZHdzTugwpUDazA&s=10", 
 "stations": [
 
-{"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2146"},
+{"name":"A&E", "image":"https://i.imgur.com/FSnjXBZ.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/20"},
 
 {"name":"ADN40","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLpaYsGCkxzWIuBqJSVHRy1_Ioul2xaD7SvyvyZGWjndfCxZuXKYXTLQ&s=10 ",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4025"},
