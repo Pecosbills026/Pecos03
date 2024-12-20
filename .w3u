@@ -118,12 +118,12 @@
 {"name":"WARNER","image":"http://lonewolftvpr.com/logos/warner.png",
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/17"}]},
 
-{"name": "CANALES WEB",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrA8Qhd-Cja8D8u113ZYCPXlxy0ZBERJ1Fw&usqp=CAU", 
+{"name": "MUNDO & CULTURA",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZrq3lV8jpvE8gAWn9b39mKLBvA-Qb8t5emwUywDnpm7L3LpzsIMDjuE&s=10",
 "stations": [
 
-{"name":"ADN40","image":"https://i.postimg.cc/mrDCfvxt/adn40.png",
-"url":"https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?uid=1z72FLX69MASINfEckvx3IfGnQaL4iDT&sid=UT0gm8jjxi9NrV6by87qipVyWNCuQlml&pid=jytODsBC9kMIg8MRcwgC64OdYUQbzR3c&an=screen&at=web-app&av=v5.2.327&ref=https%3A%2F%2Flive.adn40.mx%2F&res=1522x658&without_cookies=false&listenerid=&dnt=true"},
+{"name":"ANIMAL PLANET", "image":"https://i.imgur.com/93dLXAf.png", 
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/61"},
 
 {"name":"AZTECA UNO","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/AZUNO.png",
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/24944"},
