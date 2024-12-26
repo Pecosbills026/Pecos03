@@ -149,11 +149,20 @@
 {"name":"DISCOVERY CHANNEL", "image":"http://lonewolftvpr.com/logos/discoverychannel.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/407"},
 
+{"name":"DISCOVERY CHANNEL SD", "image":"http://lonewolftvpr.com/logos/discoverychannel.png", 
+"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59440"},
+
 {"name":"DISCOVERY H&H","image":"https://i.imgur.com/bGUkGsP.png",
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/413"},
 
+{"name":"DISCOVERY H&H SD","image":"https://i.imgur.com/bGUkGsP.png",
+"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59439"},
+
 {"name":"INVESTIGACION DISCOVERY","image":"http://lonewolftvpr.com/logos/id.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/438"},
+
+{"name":"INVESTIGACION DISCOVERY SD","image":"http://lonewolftvpr.com/logos/id.png", 
+"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59463"},
 
 {"name":"DISCOVERY SCIENCE", "image":"http://lonewolftvpr.com/logos/science.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/415"},
@@ -164,6 +173,9 @@
 {"name":"DISCOVERY TLC", "image":"http://lonewolftvpr.com/logos/tlc.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/448"},
 
+{"name":"DISCOVERY TLC SD", "image":"http://lonewolftvpr.com/logos/tlc.png", 
+"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59460"},
+
 {"name":"DISCOVERY TURBO","image":"http://lonewolftvpr.com/logos/discoveryturbo.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/421"},
 
@@ -171,10 +183,10 @@
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/424"},
 
 {"name":"E!","image":"https://lonewolftvpr.com/logos/e.png", 
-"url":"http://streamsy.online:2999/PRPLUS/vevnife7/30"},
+"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/24914"},
 
 {"name":"HGTV","image":"http://lonewolftvpr.com/logos/hgtv.png", 
-"url":"http://streamsy.online:2999/PRPLUS/vevnife7/1425"},
+"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59435"},
 
 {"name":"HISTORY","image":"http://lonewolftvpr.com/logos/history.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/432"},
@@ -205,10 +217,10 @@
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/1700"},
 
 {"name":"ESPN 1","image":"https://i.imgur.com/Cnlilpc.png",
-"url":"http://streamsy.online:2999/PRPLUS/vevnife7/97"},
+"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/24916"},
 
 {"name":"ESPN 2","image":"https://i.imgur.com/Byz0yMS.png",
-"url":"http://streamsy.online:2999/PRPLUS/vevnife7/1456"},
+"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/24915"},
 
 {"name":"ESPN 3","image":"https://i.imgur.com/4sKgcKa.png",
 "url":"http://streamsy.online:2999/PRPLUS/vevnife7/91"},
