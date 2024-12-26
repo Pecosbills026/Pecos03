@@ -50,7 +50,7 @@
 "url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9662"},
 
 {"name":"GOLDEN PREMIER", "image":"http://lonewolftvpr.com/logos/goldenpremier.png", 
-"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9664"},
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9663"},
 
 {"name":"GOLDEN PREMIER 2", "image":"http://lonewolftvpr.com/logos/goldenpremier.png", 
 "url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9665"},
@@ -58,8 +58,14 @@
 {"name":"HBO", "image":"http://lonewolftvpr.com/logos/hbo.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/140"},
 
+{"name":"HBO OPC2", "image":"http://lonewolftvpr.com/logos/hbo.png", 
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9668"},
+
 {"name":"HBO2", "image":"http://lonewolftvpr.com/logos/hbo2.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/134"},
+
+{"name":"HBO FAMILY", "image":"https://lonewolftvpr.com/logos/hbofamily.png", 
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9679"},
 
 {"name":"HBO PLUS", "image":"http://lonewolftvpr.com/logos/hboplus.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/145"},
@@ -67,14 +73,26 @@
 {"name":"HBO POP", "image":"http://lonewolftvpr.com/logos/hbopop.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/149"},
 
+{"name":"HBO POP OPC2", "image":"http://lonewolftvpr.com/logos/hbopop.png", 
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9689"},
+
 {"name":"HBO MUNDI", "image":"https://lonewolftvpr.com/logos/hbomundi.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/142"},
+
+{"name":"HBO MUNDI OPC2", "image":"https://lonewolftvpr.com/logos/hbomundi.png", 
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9685"},
 
 {"name":"HBO SIGNATURE", "image":"http://lonewolftvpr.com/logos/hbosignature.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/151"},
 
+{"name":"HBO SIGNATURE OPC2", "image":"http://lonewolftvpr.com/logos/hbosignature.png", 
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9695"},
+
 {"name":"HBO XTREME", "image":"http://lonewolftvpr.com/logos/hboxtreme.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/158"},
+
+{"name":"HBO XTREME OPC2", "image":"http://lonewolftvpr.com/logos/hboxtreme.png", 
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9698"},
 
 {"name":"PARAMOUNT", "image":"http://lonewolftvpr.com/logos/paramount.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/192"},
