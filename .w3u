@@ -183,24 +183,24 @@
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/403"},
 
 {"name":"DISCOVERY EN ESPAÑOL", "image":"http://lonewolftvpr.com/logos/discoveryenespanol.png", 
-"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/383"},
+"url":"http://home-playtv.com:80/play/QZucm9pFF8L3WdjBXELsHi-5gfufRa1cq3jILb8alSTnIWVXC4MqETiA5dFHqIyt/m3u8"},
 
 {"name":"DISCOVERY CHANNEL", "image":"http://lonewolftvpr.com/logos/discoverychannel.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/407"},
 
-{"name":"DISCOVERY CHANNEL SD", "image":"http://lonewolftvpr.com/logos/discoverychannel.png", 
+{"name":"DISCOVERY CHANNEL OPC2", "image":"http://lonewolftvpr.com/logos/discoverychannel.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59440"},
 
 {"name":"DISCOVERY H&H","image":"https://i.imgur.com/bGUkGsP.png",
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/413"},
 
-{"name":"DISCOVERY H&H SD","image":"https://i.imgur.com/bGUkGsP.png",
+{"name":"DISCOVERY H&H OPC2","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png",
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59439"},
 
 {"name":"INVESTIGACION DISCOVERY","image":"http://lonewolftvpr.com/logos/id.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/438"},
 
-{"name":"INVESTIGACION DISCOVERY SD","image":"http://lonewolftvpr.com/logos/id.png", 
+{"name":"INVESTIGACION DISCOVERY OPC2","image":"http://i.ibb.co/RYvrN4k/Investigation-Discovery.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59463"},
 
 {"name":"DISCOVERY SCIENCE", "image":"http://lonewolftvpr.com/logos/science.png", 
@@ -212,7 +212,7 @@
 {"name":"DISCOVERY TLC", "image":"http://lonewolftvpr.com/logos/tlc.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/448"},
 
-{"name":"DISCOVERY TLC SD", "image":"http://lonewolftvpr.com/logos/tlc.png", 
+{"name":"DISCOVERY TLC OPC2", "image":"http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59460"},
 
 {"name":"DISCOVERY TURBO","image":"http://lonewolftvpr.com/logos/discoveryturbo.png", 
@@ -227,7 +227,7 @@
 {"name":"HGTV","image":"http://lonewolftvpr.com/logos/hgtv.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59435"},
 
-{"name":"HGTV SD","image":"http://lonewolftvpr.com/logos/hgtv.png", 
+{"name":"HGTV OPC2","image":"https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", 
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/59525"},
 
 {"name":"HISTORY","image":"http://lonewolftvpr.com/logos/history.png", 
