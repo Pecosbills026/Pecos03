@@ -254,6 +254,55 @@
 {"name":"NAT GEO MUNDO","image":"https://lonewolftvpr.com/logos/natgeomundo.png",
 "url":"http://tv.proyectox.vip:8080/PiedadGoldring/8ZcgpvS7wP/9807"}]},
 
+{"name": "ZONA DEPORTIVA",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSb4ImYAFgqUSfcwj6RZUv1Luhi_arr-d8DECn2CmFnD_V-NDXgqfWK7DC&s=10", 
+"stations": [
+
+{"name":"AZTECA DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-q76RnjB6u3hq7YLGWwInuyNLWZQU1bBlspIgX_0ABOX--FV-pe7n7c&s=10",
+"url":"http://tv.proyectox.vip:8080/PiedadGoldring/8ZcgpvS7wP/87573"},
+
+{"name":"BEINSPORT Ñ","image":"http://lonewolftvpr.com/logos/beinsports.png",
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9554"},
+
+{"name":"CLARO SPORT","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSblQeN-W2P9ulq_XH-UjlKcwNFI7frJRQ_IH-xh4v6scIr5mXNHlAqobPs&s=10",
+"url":"http://tv.proyectox.vip:8080/PiedadGoldring/8ZcgpvS7wP/9555"},
+
+{"name":"CLARO SPORT 2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSblQeN-W2P9ulq_XH-UjlKcwNFI7frJRQ_IH-xh4v6scIr5mXNHlAqobPs&s=10",
+"url":"http://tv.proyectox.vip:8080/PiedadGoldring/8ZcgpvS7wP/9556"},
+
+{"name":"ESPN 1","image":"https://i.imgur.com/Cnlilpc.png",
+"url":"http://tv.proyectox.vip:8080/PiedadGoldring/8ZcgpvS7wP/9525"},
+
+{"name":"ESPN 2","image":"https://i.imgur.com/Byz0yMS.png",
+"url":"http://tv.proyectox.vip:8080/PiedadGoldring/8ZcgpvS7wP/9531"},
+
+{"name":"ESPN 3","image":"https://i.imgur.com/4sKgcKa.png",
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9532"},
+
+{"name":"ESPN 4","image":"https://i.imgur.com/JUou0fZ.png",
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9537"},
+
+{"name":"ESPN DEPORTES","image":"http://lonewolftvpr.com/logos/espndeportes.png",
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/84668"},
+
+{"name":"FOX DEPORTES","image":"https://i.imgur.com/oLsqZ7o.png",
+"url":"http://tv.proyectox.vip:8080/PiedadGoldring/8ZcgpvS7wP/9571"},
+
+{"name":"FOX SPORT","image":"https://i.imgur.com/oLsqZ7o.png",
+"url":"http://tv.proyectox.vip:8080/PiedadGoldring/8ZcgpvS7wP/9579"},
+
+{"name":"FOX SPORT 2","image":"https://i.imgur.com/xoyWbuL.png",
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9586"},
+
+{"name":"FOX SPORT 3","image":"https://i.imgur.com/WlvxyIB.png",
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9587"},
+
+{"name":"TUDN USA","image":"https://lonewolftvpr.com/logos/tudn.png",
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9604"},
+
+{"name":"FOX PREMIUN","image":"http://lonewolftvpr.com/logos/foxsportspremium.png",
+"url":"http://tv.proyectox.vip:8080/rofelix07/JRaZMXurTZ/9593"}]},
+
 {"name":"FORO TV","image":"https://static.wikia.nocookie.net/logopedia/images/3/3a/Foro_TV_%282022_Print%29.svg/revision/latest/scale-to-width-down/250?cb=20230202013635&path-prefix=es",
 "url":"http://tv.proyectox.vip:8080/PiedadGoldring/8ZcgpvS7wP/87595"},
 
